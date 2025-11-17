@@ -1,2 +1,2 @@
 # jenkins
-## change for jenkins use.
+## change for jenkins use
